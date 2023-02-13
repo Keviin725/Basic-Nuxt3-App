@@ -6,7 +6,7 @@
 </template>
 
 <script>
-    const { id } = useRoute().params
+    const { id } = useRoute().params.id
 </script>
 
 <style scoped>
